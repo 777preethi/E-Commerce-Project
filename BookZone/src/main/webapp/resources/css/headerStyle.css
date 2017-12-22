@@ -1,0 +1,26 @@
+.navbar-inverse 
+{
+    background-color: #3C5C77 !important;
+    border-color: #3C5C77 !important;
+}
+.navbar-inverse .navbar-nav>li>a 
+{
+    color: #E48E27 !important;
+    font-size: 16px;
+}
+.navbar-inverse .navbar-nav>li>a:hover, 
+.navbar-inverse .navbar-nav>li>a:focus, 
+.navbar-inverse .navbar-nav>li>a:active 
+{
+    color: #FFFFFF !important;
+    font-size: 16px;
+}
+.headerTop
+{
+	margin-top: -20px;
+}
+.logoImgStyle
+{
+	width: 120px;
+	height: 60px;
+}
